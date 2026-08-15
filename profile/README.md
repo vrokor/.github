@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vrokor/.github/main/brand/vrokor-lockup-metal.png">
-  <img src="https://raw.githubusercontent.com/vrokor/.github/main/brand/vrokor-lockup.svg" alt="VROKOR" width="420">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vrokor/.github/main/brand/vrokor-logo-dark.png">
+  <img src="https://raw.githubusercontent.com/vrokor/.github/main/brand/vrokor-logo-light.svg" alt="VROKOR" width="420">
 </picture>
 
 <br/><br/>
